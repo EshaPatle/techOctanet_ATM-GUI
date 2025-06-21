@@ -7,8 +7,10 @@
 ## 🔹 Description
 A simple ATM interface using Python's `tkinter` module. The GUI supports operations like:
 - ✅ Balance Check
-- 💰 Deposit Money
-- 🏧 Withdraw Money
+- ✅ Deposit Money
+- ✅ Withdraw Money
+- ✅Change Pin
+- ✅Transaction History
 
 ## 🛠 Technologies Used
 - Python
